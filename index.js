@@ -3,10 +3,18 @@ const app = express();
 const PORT = 8080;
 const {connectDB} = require("./config/connection");
 app.use(express.json());
-const url = "mongodb://127.0.0.1:27017/MyShop";
 
 
-connectDB(url);
+
+connectDB();
+
+const cartRouter = require("./routes/cart");
+app.use("/api/cart", cartRouter);
+
+const productRouter = require("./routes/product");
+app.use("/api/products", productRouter);
+
+
 
 app.listen(PORT, ()=>{
     console.log("Server is Connected");

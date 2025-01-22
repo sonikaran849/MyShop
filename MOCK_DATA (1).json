@@ -1,0 +1,242 @@
+[
+    {
+        "name": "Lamb Shoulder Boneless Nz",
+        "code": "63629-4788",
+        "category": "Wine - Merlot Vina Carmen",
+        "price": 53,
+        "gstRate": 49,
+        "stock": 1
+    },
+    {
+        "name": "Duck - Whole",
+        "code": "52125-040",
+        "category": "Turkey - Breast, Boneless Sk On",
+        "price": 93,
+        "gstRate": 35,
+        "stock": 95
+    },
+    {
+        "name": "Cinnamon Buns Sticky",
+        "code": "36800-699",
+        "category": "Tofu - Soft",
+        "price": 921,
+        "gstRate": 3,
+        "stock": 39
+    },
+    {
+        "name": "Beef - Outside, Round",
+        "code": "0093-2056",
+        "category": "French Pastry - Mini Chocolate",
+        "price": 39,
+        "gstRate": 36,
+        "stock": 11
+    },
+    {
+        "name": "Cattail Hearts",
+        "code": "34645-4001",
+        "category": "Bread - Olive",
+        "price": 789,
+        "gstRate": 4,
+        "stock": 27
+    },
+    {
+        "name": "Octopus - Baby, Cleaned",
+        "code": "63517-005",
+        "category": "Puree - Guava",
+        "price": 70,
+        "gstRate": 20,
+        "stock": 2
+    },
+    {
+        "name": "Peach - Fresh",
+        "code": "55316-922",
+        "category": "Bulgar",
+        "price": 601,
+        "gstRate": 78,
+        "stock": 27
+    },
+    {
+        "name": "Shrimp - Black Tiger 26/30",
+        "code": "67692-470",
+        "category": "Rambutan",
+        "price": 83,
+        "gstRate": 86,
+        "stock": 14
+    },
+    {
+        "name": "Chicken - White Meat With Tender",
+        "code": "59078-013",
+        "category": "Pork - Backs - Boneless",
+        "price": 562,
+        "gstRate": 66,
+        "stock": 98
+    },
+    {
+        "name": "Compound - Pear",
+        "code": "53808-0446",
+        "category": "Coffee - Espresso",
+        "price": 448,
+        "gstRate": 90,
+        "stock": 14
+    },
+    {
+        "name": "Beef - Tenderlion, Center Cut",
+        "code": "76369-6001",
+        "category": "Tomatoes - Cherry, Yellow",
+        "price": 156,
+        "gstRate": 65,
+        "stock": 12
+    },
+    {
+        "name": "Milk - 2% 250 Ml",
+        "code": "54569-3693",
+        "category": "Sauce - Mint",
+        "price": 619,
+        "gstRate": 12,
+        "stock": 93
+    },
+    {
+        "name": "Lamb - Leg, Diced",
+        "code": "58668-6160",
+        "category": "Flavouring - Raspberry",
+        "price": 547,
+        "gstRate": 83,
+        "stock": 22
+    },
+    {
+        "name": "Pork - Bones",
+        "code": "43857-0197",
+        "category": "Pepper - Scotch Bonnet",
+        "price": 158,
+        "gstRate": 61,
+        "stock": 6
+    },
+    {
+        "name": "Sage Ground Wiberg",
+        "code": "24987-362",
+        "category": "Soup - Campbells Mushroom",
+        "price": 68,
+        "gstRate": 82,
+        "stock": 98
+    },
+    {
+        "name": "Sea Bass - Fillets",
+        "code": "0115-6811",
+        "category": "Yogurt - Raspberry, 175 Gr",
+        "price": 483,
+        "gstRate": 14,
+        "stock": 73
+    },
+    {
+        "name": "Pumpkin",
+        "code": "55154-4782",
+        "category": "Pastry - Butterscotch Baked",
+        "price": 329,
+        "gstRate": 14,
+        "stock": 28
+    },
+    {
+        "name": "Cheese - Shred Cheddar / Mozza",
+        "code": "42507-604",
+        "category": "Cups 10oz Trans",
+        "price": 827,
+        "gstRate": 50,
+        "stock": 40
+    },
+    {
+        "name": "Fish - Base, Bouillion",
+        "code": "68026-523",
+        "category": "Juice - Pineapple, 341 Ml",
+        "price": 988,
+        "gstRate": 16,
+        "stock": 2
+    },
+    {
+        "name": "Sour Puss Sour Apple",
+        "code": "57337-037",
+        "category": "Milk - Homo",
+        "price": 198,
+        "gstRate": 30,
+        "stock": 67
+    },
+    {
+        "name": "Cassis",
+        "code": "49781-065",
+        "category": "Soup - Knorr, Chicken Noodle",
+        "price": 8,
+        "gstRate": 44,
+        "stock": 13
+    },
+    {
+        "name": "Breakfast Quesadillas",
+        "code": "16590-116",
+        "category": "Celery",
+        "price": 196,
+        "gstRate": 1,
+        "stock": 99
+    },
+    {
+        "name": "V8 Splash Strawberry Kiwi",
+        "code": "0781-5325",
+        "category": "Beef - Eye Of Round",
+        "price": 503,
+        "gstRate": 36,
+        "stock": 3
+    },
+    {
+        "name": "Bread - Calabrese Baguette",
+        "code": "68828-060",
+        "category": "Bread - Multigrain, Loaf",
+        "price": 715,
+        "gstRate": 13,
+        "stock": 23
+    },
+    {
+        "name": "Soup - Chicken And Wild Rice",
+        "code": "49349-533",
+        "category": "Beef - Striploin",
+        "price": 808,
+        "gstRate": 80,
+        "stock": 15
+    },
+    {
+        "name": "Sauce - Thousand Island",
+        "code": "64893-495",
+        "category": "Syrup - Pancake",
+        "price": 829,
+        "gstRate": 59,
+        "stock": 18
+    },
+    {
+        "name": "Squash - Pattypan, Yellow",
+        "code": "49738-206",
+        "category": "Wine - Sherry Dry Sack, William",
+        "price": 44,
+        "gstRate": 83,
+        "stock": 77
+    },
+    {
+        "name": "Turkey - Breast, Double",
+        "code": "0280-2100",
+        "category": "Wine - Sauvignon Blanc Oyster",
+        "price": 803,
+        "gstRate": 96,
+        "stock": 93
+    },
+    {
+        "name": "Bread - Olive",
+        "code": "58411-135",
+        "category": "Ice Cream Bar - Oreo Cone",
+        "price": 227,
+        "gstRate": 76,
+        "stock": 48
+    },
+    {
+        "name": "Mix - Cocktail Ice Cream",
+        "code": "0409-7923",
+        "category": "Chocolate - Sugar Free Semi Choc",
+        "price": 263,
+        "gstRate": 19,
+        "stock": 46
+    }
+]
